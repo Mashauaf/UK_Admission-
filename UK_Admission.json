@@ -1,0 +1,266 @@
+ [
+    {
+      "id": 1,
+      "name": "University of Cambridge",
+      "admission_deadline": "22-Oct-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 2,
+      "name": "University of Oxford",
+      "admission_deadline": "15 October 2024",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 3,
+      "name": "University of Bristol",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 4,
+      "name": "The University of Edinburgh",
+      "admission_deadline": "31-May-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 5,
+      "name": "The University of Manchester",
+      "admission_deadline": "30-Jun-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 6,
+      "name": "The University of Warwick",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 7,
+      "name": "University of Southampton",
+      "admission_deadline": "30-Jun-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 8,
+      "name": "University of Glasgow",
+      "admission_deadline": "30-Jun-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 9,
+      "name": "University of Leeds",
+      "admission_deadline": "16-May-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 10,
+      "name": "University of Birmingham",
+      "admission_deadline": "7-May-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 11,
+      "name": "Durham University",
+      "admission_deadline": "30-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 12,
+      "name": "The University of Sheffield",
+      "admission_deadline": "30-Jun-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 13,
+      "name": "University of St Andrews",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 14,
+      "name": "University of Nottingham",
+      "admission_deadline": "5-Aug-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 15,
+      "name": "Newcastle University",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 16,
+      "name": "Queen Mary University of London",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 17,
+      "name": "Lancaster University",
+      "admission_deadline": "16-Oct-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 18,
+      "name": "University of York",
+      "admission_deadline": "31 January 2024.",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 19,
+      "name": "University of Exeter",
+      "admission_deadline": "30-Jun-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 20,
+      "name": "Cardiff University",
+      "admission_deadline": "30-Jun-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 21,
+      "name": "University of Bath",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 22,
+      "name": "University of Liverpool",
+      "admission_deadline": "12th July 2024.",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 23,
+      "name": "University of Aberdeen",
+      "admission_deadline": "15th September 2024",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 24,
+      "name": "University of Reading",
+      "admission_deadline": "16-Oct-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 25,
+      "name": "Queen's University Belfast",
+      "admission_deadline": "30-Jun-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 26,
+      "name": "Loughborough University",
+      "admission_deadline": "30 September 2024",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 27,
+      "name": "University of Leicester",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 28,
+      "name": "Heriot-Watt University",
+      "admission_deadline": "26-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 29,
+      "name": "University of Surrey",
+      "admission_deadline": "June 01, 2024.",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 30,
+      "name": "University of Strathclyde",
+      "admission_deadline": "Jan 31, 2024",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 31,
+      "name": "University of East Anglia (UEA)",
+      "admission_deadline": "31-Jul-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 32,
+      "name": "Birkbeck, University of London",
+      "admission_deadline": "5-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 33,
+      "name": "University of Dundee",
+      "admission_deadline": "UG: Jun 30, 2024 PG: Jul 31, 2024",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 34,
+      "name": "City, University of London",
+      "admission_deadline": "Apr 15 - May 15, 2024",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 35,
+      "name": "University of Kent",
+      "admission_deadline": "3-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 36,
+      "name": "Royal Holloway University of London",
+      "admission_deadline": "31-Jul-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 37,
+      "name": "Brunel University London",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 38,
+      "name": "Swansea University",
+      "admission_deadline": "15-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 39,
+      "name": "Oxford Brookes University",
+      "admission_deadline": "15-Jul-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 40,
+      "name": "SOAS University of London",
+      "admission_deadline": "15-Jun-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 41,
+      "name": "University of Essex",
+      "admission_deadline": "31-Jan-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 42,
+      "name": "University of Stirling",
+      "admission_deadline": "31 January 2024",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 43,
+      "name": "Aston University",
+      "admission_deadline": "1-Dec-24",
+      "ielts_required": "Yes"
+    },
+    {
+      "id": 44,
+      "name": "Bangor University",
+      "admission_deadline": "30-Jun-24",
+      "ielts_required": "Yes"
+    }
+  ]
